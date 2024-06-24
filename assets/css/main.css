@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #E6E9ED;
-  --color-primary: #0d42ff;
-  --color-secondary: #0e1d34;
+  --color-primary: #E6E9ED;
+  --color-secondary: #E6E9ED;
 }
 
 /* Smooth scroll behavior */
