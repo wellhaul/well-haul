@@ -148,7 +148,7 @@ section {
 .breadcrumbs .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #fff;
+  color: #0a0d13;
   font-family: var(--font-secondary);
 }
 
@@ -211,13 +211,13 @@ section {
 
 .scroll-top i {
   font-size: 24px;
-  color: #fff;
+  color: #0a0d13;
   line-height: 0;
 }
 
 .scroll-top:hover {
   background: rgba(13, 66, 255, 0.8);
-  color: #fff;
+  color: #0a0d13;
 }
 
 .scroll-top.active {
@@ -303,7 +303,7 @@ section {
   font-size: 30px;
   margin: 0;
   font-weight: 700;
-  color: #fff;
+  color: #0a0d13;
   font-family: var(--font-primary);
 }
 
@@ -352,7 +352,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #0a0d13;
   }
 
   .navbar .get-a-quote,
@@ -361,12 +361,12 @@ section {
     padding: 8px 20px;
     margin-left: 30px;
     border-radius: 4px;
-    color: #fff;
+    color: #0a0d13;
   }
 
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
-    color: #fff;
+    color: #0a0d13;
     background: #73264d;
   }
 
@@ -380,7 +380,7 @@ section {
     z-index: 99;
     opacity: 0;
     visibility: hidden;
-    background: #fff;
+    background: #0a0d13;
     box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
     transition: 0.3s;
     border-radius: 4px;
@@ -497,7 +497,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #0a0d13;
   }
 
   .navbar .get-a-quote,
@@ -506,12 +506,12 @@ section {
     padding: 8px 20px;
     border-radius: 4px;
     margin: 15px;
-    color: #fff;
+    color: #0a0d13;
   }
 
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
-    color: #fff;
+    color: #0a0d13;
     background: rgba(13, 66, 255, 0.8);
   }
 
@@ -589,7 +589,7 @@ section {
 }
 
 .featured-services .service-item:hover .icon {
-  background: #fff;
+  background: #0a0d13;
 }
 
 .featured-services .service-item:hover .icon i {
@@ -606,7 +606,7 @@ section {
 
 .featured-services .service-item .description {
   font-size: 15px;
-  color: #132848;
+  color: #0a0d13;
   margin-bottom: 10px;
 }
 
@@ -636,7 +636,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   font-family: var(--font-secondary);
-  color: #001f8d;
+  color: #0a0d13;
 }
 
 .about .content ul {
