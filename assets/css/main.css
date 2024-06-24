@@ -21,7 +21,7 @@
 :root {
   --color-default: #0a0d13;
   --color-primary: #73264d;
-  --color-secondary: #fff;
+  --color-secondary: #0a0d13;
 }
 
 /* Smooth scroll behavior */
