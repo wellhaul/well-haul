@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #1a001a;
-  --color-primary: #660066;
+  --color-primary: #b300b3;
   --color-secondary: #1a001a;
 }
 
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #73264d;
+  color: #990099;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #73264d;
+  color: #990099;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
