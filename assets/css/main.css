@@ -21,7 +21,7 @@
 :root {
   --color-default: #0a0d13;
   --color-primary: #73264d;
-  --color-secondary: #73264d;
+  --color-secondary: #fff;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #0a0d13;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #0a0d13;
+  color: #fff;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -148,7 +148,7 @@ section {
 .breadcrumbs .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #73264d;
+  color: #fff;
   font-family: var(--font-secondary);
 }
 
@@ -188,7 +188,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #0a0d13;
+  color: #fff;
   content: "/";
 }
 
@@ -211,13 +211,13 @@ section {
 
 .scroll-top i {
   font-size: 24px;
-  color: #0a0d13;
+  color: #fff;
   line-height: 0;
 }
 
 .scroll-top:hover {
   background: rgba(13, 66, 255, 0.8);
-  color: #0a0d13;
+  color: #fff;
 }
 
 .scroll-top.active {
@@ -233,7 +233,7 @@ section {
   inset: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #73264d;
+  background: #fff;
   transition: all 0.6s ease-out;
   width: 100%;
   height: 100vh;
@@ -303,7 +303,7 @@ section {
   font-size: 30px;
   margin: 0;
   font-weight: 700;
-  color: #0a0d13;
+  color: #fff;
   font-family: var(--font-primary);
 }
 
@@ -352,7 +352,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #0a0d13;
+    color: #fff;
   }
 
   .navbar .get-a-quote,
@@ -361,13 +361,13 @@ section {
     padding: 8px 20px;
     margin-left: 30px;
     border-radius: 4px;
-    color: #0a0d13;
+    color: #fff;
   }
 
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #0a0d13;
-    background: #73264d;
+    background: #fff;
   }
 
   .navbar .dropdown ul {
@@ -380,7 +380,7 @@ section {
     z-index: 99;
     opacity: 0;
     visibility: hidden;
-    background: #0a0d13;
+    background: #fff;
     box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
     transition: 0.3s;
     border-radius: 4px;
@@ -497,7 +497,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #0a0d13;
+    color: #fff;
   }
 
   .navbar .get-a-quote,
@@ -506,12 +506,12 @@ section {
     padding: 8px 20px;
     border-radius: 4px;
     margin: 15px;
-    color: #0a0d13;
+    color: #fff;
   }
 
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
-    color: #0a0d13;
+    color: #fff;
     background: rgba(13, 66, 255, 0.8);
   }
 
@@ -522,7 +522,7 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    border: 1px solid #19335c;
+    border: 1px solid #73264d;
   }
 
   .navbar .dropdown>.dropdown-active,
