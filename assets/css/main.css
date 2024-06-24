@@ -148,7 +148,7 @@ section {
 .breadcrumbs .page-header h2 {
   font-size: 56px;
   font-weight: 500;
-  color: #0a0d13;
+  color: #73264d;
   font-family: var(--font-secondary);
 }
 
@@ -157,7 +157,7 @@ section {
 }
 
 .breadcrumbs nav {
-  background-color: #73264d;
+  background-color: #0a0d13;
   padding: 20px 0;
 }
 
@@ -188,7 +188,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #73264d;
+  color: #0a0d13;
   content: "/";
 }
 
