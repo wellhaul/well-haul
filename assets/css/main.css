@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #0a0d13;
-  --color-primary: #73264d;
-  --color-secondary: #0a0d13;
+  --color-primary: #0d42ff;
+  --color-secondary: #0e1d34;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #fff;
+  color: #406aff;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #fff;
+  color: #001973;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -157,7 +157,7 @@ section {
 }
 
 .breadcrumbs nav {
-  background-color: #0a0d13;
+  background-color: #f3f6fc;
   padding: 20px 0;
 }
 
@@ -188,7 +188,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #fff;
+  color: #4278cc;
   content: "/";
 }
 
@@ -295,7 +295,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 70px;
+  max-height: 40px;
   margin-right: 6px;
 }
 
@@ -366,8 +366,8 @@ section {
 
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
-    color: #0a0d13;
-    background: #fff;
+    color: #fff;
+    background: #2756ff;
   }
 
   .navbar .dropdown ul {
@@ -522,7 +522,7 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    border: 1px solid #73264d;
+    border: 1px solid #19335c;
   }
 
   .navbar .dropdown>.dropdown-active,
@@ -589,7 +589,7 @@ section {
 }
 
 .featured-services .service-item:hover .icon {
-  background: #0a0d13;
+  background: #fff;
 }
 
 .featured-services .service-item:hover .icon i {
@@ -606,7 +606,7 @@ section {
 
 .featured-services .service-item .description {
   font-size: 15px;
-  color: #0a0d13;
+  color: #132848;
   margin-bottom: 10px;
 }
 
@@ -636,7 +636,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   font-family: var(--font-secondary);
-  color: #0a0d13;
+  color: #001f8d;
 }
 
 .about .content ul {
