@@ -19,9 +19,9 @@
 
 /* Colors */
 :root {
-  --color-default: #c6beee;
-  --color-primary: #714b67;
-  --color-secondary: #714b67;
+  --color-default: #0a0d13;
+  --color-primary: #0d42ff;
+  --color-secondary: #0e1d34;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #990099;
+  color: #406aff;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #990099;
+  color: #001973;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
