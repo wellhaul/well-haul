@@ -289,9 +289,9 @@ section {
 }
 
 .header.sticked {
-  background: rgba(14, 29, 52, 0.9);
+  background: rgb(46, 31, 42);
   padding: 15px 0;
-  box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
+  box-shadow: 0px 2px 20px rgb(46, 31, 42);
 }
 
 .header .logo img {
@@ -367,7 +367,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #fff;
-    background: #2756ff;
+    background: #6b4762;
   }
 
   .navbar .dropdown ul {
@@ -466,7 +466,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(14, 29, 52, 0.9);
+    background: rgb(46, 31, 42);
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -512,7 +512,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #fff;
-    background: rgba(13, 66, 255, 0.8);
+    background: rgb(163, 117, 151);
   }
 
   .navbar .dropdown ul,
@@ -564,7 +564,7 @@ section {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(14, 29, 52, 0.8);
+    background: rgb(46, 31, 42);
     z-index: 9996;
   }
 }
@@ -583,7 +583,7 @@ section {
 }
 
 .featured-services .service-item .icon i {
-  color: #001f8d;
+  color: #4d3346;
   font-size: 48px;
   transition: 0.3s;
 }
@@ -606,7 +606,7 @@ section {
 
 .featured-services .service-item .description {
   font-size: 15px;
-  color: #132848;
+  color: #2e1f2a;
   margin-bottom: 10px;
 }
 
@@ -636,7 +636,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   font-family: var(--font-secondary);
-  color: #001f8d;
+  color: #2e1f2a;
 }
 
 .about .content ul {
