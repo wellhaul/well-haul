@@ -661,7 +661,7 @@ section {
 .about .content ul h5 {
   font-size: 18px;
   font-weight: 700;
-  color: #19335c;
+  color: #3d2938;
 }
 
 .about .content ul p {
@@ -675,7 +675,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(var(--color-primary) 50%, rgba(13, 66, 255, 0.4) 52%);
+  background: radial-gradient(var(--color-primary) 50%, rgb(163, 117, 151, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -696,7 +696,7 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(13, 66, 255, 0.7);
+  border: 5px solid rgb(163, 117, 151, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -755,7 +755,7 @@ section {
 # Services Section
 --------------------------------------------------------------*/
 .services .card {
-  border: 1px solid rgba(14, 29, 52, 0.15);
+  border: 1px solid rgb(46, 31, 42, 0.15);
   background: #fff;
   position: relative;
   border-radius: 0;
@@ -781,7 +781,7 @@ section {
 }
 
 .services .card a {
-  color: #001973;
+  color: #3d2938;
   transition: 0.3;
 }
 
@@ -804,7 +804,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  background: linear-gradient(rgba(14, 29, 52, 0.6), rgba(14, 29, 52, 0.8)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgb(46, 31, 42, 0.6), rgb(46, 31, 42, 0.8)), url("../img/cta-bg.jpg") center center;
   background-size: cover;
   padding: 100px 0;
 }
@@ -864,7 +864,7 @@ section {
 .features .features-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #001973;
+  color: #3d2938;
 }
 
 .features .features-item ul {
