@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #406aff;
+  color: #a37597;
   text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #001973;
+  color: #4d3346;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -140,7 +140,7 @@ section {
 
 .breadcrumbs .page-header:before {
   content: "";
-  background-color: rgba(14, 29, 52, 0.8);
+  background-color: rgb(77, 51, 70);
   position: absolute;
   inset: 0;
 }
@@ -188,7 +188,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #4278cc;
+  color: #a37597;
   content: "/";
 }
 
@@ -216,7 +216,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(13, 66, 255, 0.8);
+  background: rgb(77, 51, 70);
   color: #fff;
 }
 
