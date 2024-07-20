@@ -1,0 +1,7 @@
+echo "# well-haul" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M venue2.0
+git remote add origin https://github.com/wellhaul/well-haul.git
+git push -u origin venue2.0
